@@ -4,12 +4,12 @@
 
 ## 在线查看效果： https://yufengkz.github.io/static/
 ```
-## 下载到本地查看：
+下载到本地查看：
 git clone https://github.com/yufengkz/Blog.git
 ```
 
 ```
-## 运行项目：
+运行项目：
 1.下载所有依赖包 npm install  
 
 2.打开服务器跑起来 npm run dev
